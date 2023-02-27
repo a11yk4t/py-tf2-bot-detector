@@ -7,6 +7,8 @@ How to add new cheaters manually efficiently
 Central database that doesn't do accusations and stuff only evident stuff
 Try detect new joiners instead of scanning constantly :)
 
+add new code
+
 """
 
 from rcon.source import Client
